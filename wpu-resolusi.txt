@@ -1,5 +1,4 @@
 WPU Resolusi
 - freelance job
 - penghasilan 20+ juta sebulan
-- belajar skill data science
-- cari kerjaan data science
+- belajar tensorflow
